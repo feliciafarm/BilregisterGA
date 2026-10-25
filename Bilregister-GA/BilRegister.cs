@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 
+bool isRunning = true;
+
 namespace Bilregister_GA
 {
     internal class BilRegister
